@@ -1,2 +1,3 @@
-const a = 40;
+
 const myFunc = () => {};
+const a = 'Hi there'; 
